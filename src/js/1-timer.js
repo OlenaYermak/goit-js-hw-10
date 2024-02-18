@@ -27,7 +27,6 @@ const options = {
         message: "Please choose a date in the future", 
         backgroundColor: "#B51B1B",
         position: "topRight",
-        iconColor: "#ffffff",
        
       })
       startBtn.disabled = true;

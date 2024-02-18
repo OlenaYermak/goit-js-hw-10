@@ -24,8 +24,11 @@ font-weight: 400;
     line-height: 1.5;
     color: #2e2f42;
 }
-
 button[type="button"] {
+        width: 75px;
+}
+
+button {
     border-radius: 8px;
     background: #4E75FF;
     color: white;
